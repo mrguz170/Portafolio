@@ -1,6 +1,6 @@
 body
 {
- background: rgb(20, 138, 225);
+ background: rgb(0, 0, 0);
  font-size: 16px;
 }
 
@@ -101,7 +101,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: rgb(0, 145, 202);
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
